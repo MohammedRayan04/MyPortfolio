@@ -18,60 +18,13 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               isBlog={false}
-              title=""
-              description=""
-              ghLink=""
-              demoLink=""
+              title="NestyWorld"
+              description="Rental with extreme authentication"
+              ghLink="https://github.com/MohammedRayan04/NestyWorld"
+              demoLink="https://nesty-world.vercel.app/"
             />
           </Col>
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              isBlog={false}
-              title=""
-              description=""
-              ghLink=""
-              demoLink=""
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              isBlog={false}
-              title=""
-              description=""
-              ghLink=""
-              demoLink=""              
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              isBlog={false}
-              title=""
-              description=""
-              ghLink=""
-              demoLink=""
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              isBlog={false}
-              title=""
-              description=""
-              ghLink=""
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              isBlog={false}
-              title=""
-              description=""
-              ghLink=""
-            />
-          </Col>
         </Row>
       </Container>
     </Container>
