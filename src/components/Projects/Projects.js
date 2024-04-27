@@ -20,7 +20,7 @@ function Projects() {
               isBlog={false}
               title="NestyWorld"
               description=" Rental-Application with JWT Authentication "
-              ghLink="https://github.com/MohammedRayan04/NestyWorld"
+              ghLink="https://github.com/MohammedRayan04/NestyWorld-Client"
               demoLink="https://nesty-world-client.vercel.app/"
             />
           </Col>
