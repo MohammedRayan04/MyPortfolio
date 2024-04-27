@@ -19,9 +19,9 @@ function Projects() {
             <ProjectCard
               isBlog={false}
               title="NestyWorld"
-              description=" Rental Application with JWT Authentication "
+              description=" Rental-Application with JWT Authentication "
               ghLink="https://github.com/MohammedRayan04/NestyWorld"
-              demoLink="https://nesty-world.vercel.app/"
+              demoLink="https://nesty-world-client.vercel.app/"
             />
           </Col>
 
